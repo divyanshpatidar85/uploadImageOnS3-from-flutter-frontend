@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-imageonaws-dev-08134-authRole",
+      "UnauthRoleArn": "arn:aws:iam::503561434749:role/amplify-imageonaws-dev-08134-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::503561434749:role/amplify-imageonaws-dev-08134-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-imageonaws-dev-08134-deployment",
+      "UnauthRoleName": "amplify-imageonaws-dev-08134-unauthRole",
+      "StackName": "amplify-imageonaws-dev-08134",
+      "StackId": "arn:aws:cloudformation:eu-north-1:503561434749:stack/amplify-imageonaws-dev-08134/ce461a70-6947-11ef-a8fc-0a35c4c510d1",
+      "AmplifyAppId": "d1wrjydz5rq5o7"
+    },
+    "categories": {
+      "auth": {
+        "imageonaws65d4c392": {}
+      },
+      "function": {
+        "S3Triggere7bb2da0": {
+          "deploymentBucketName": "amplify-imageonaws-dev-08134-deployment",
+          "s3Key": "amplify-builds/S3Triggere7bb2da0-2b4f4f314d59754c4e49-build.zip"
+        }
+      },
+      "storage": {
+        "s320f81610": {}
+      }
+    }
+  }
+}
