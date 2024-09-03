@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
       };
       final result = await Amplify.Auth.signUp(
         username:"divyanshpatidar85@gmail.com",
-        password:"Divy2002\$",
+        password:"putyourpassword",
       );
       if (result.isSignUpComplete) {
         _showVerificationDialog();
